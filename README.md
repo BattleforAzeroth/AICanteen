@@ -8,7 +8,7 @@ Android Live Demo inferenece of Yolov7 using ncnn
 
 Object detection for 21 classes of dishes and ordering pages included
 
-![](demo.gif)
+![](https://github.com/BattleforAzeroth/AICanteen/blob/assets/demo.gif)
 
 ## Install
 

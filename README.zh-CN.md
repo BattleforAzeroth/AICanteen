@@ -8,7 +8,7 @@
 
 21类菜品的目标检测，并包含点单界面
 
-![](demo.gif)
+![](https://github.com/BattleforAzeroth/AICanteen/blob/assets/demo.gif)
 
 ## 安装
 
