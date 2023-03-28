@@ -2,5 +2,5 @@
 .idea/
 app/.cxx/
 build/
-demo.gif
-images/
+/demo.gif
+/images
