@@ -2,13 +2,13 @@
 
 # AI Canteen
 
+Faster and more convenient way of ordering based on Object detection
+
 Android Live Demo inferenece of Yolov7 using ncnn
 
 Object detection for 21 classes of dishes and ordering pages included
 
-Faster and more convenient way of ordering based on Object detection
-
-[](demo.gif)
+![](demo.gif)
 
 ## Install
 
@@ -41,7 +41,7 @@ Defined in `app/src/main/java/com/tencent/ncnnyolov7/MenuActivity.java`
 f = new int[]{1, 2, 3, 15, 20, 21, 4, 22, 16, 5, 6, 7, 8, 9, 10, 17, 11, 12, 23, 18, 13};
 ```
 
-This array solves the problem that the model does not correspond to the classes number in the order page
+This array solves the problem that the order page does not correspond to the classes number in the model
 
 ### Details of Dishes
 
